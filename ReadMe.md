@@ -7,7 +7,7 @@
 * Copy the download zip file to datasets folder
 * Run Project.ipynb
 * Next open a new terminal with directory as yolov5
-* train modelhttps://www.kaggle.com/datasets/andrewmvd/face-mask-detection/download?datasetVersionNumber=1
+* train model
 
 # Model Parameters
 
