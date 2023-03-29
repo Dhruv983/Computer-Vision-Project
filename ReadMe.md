@@ -1,6 +1,14 @@
 # Data Sourced From Kaggle
 ## (Link)[https://www.kaggle.com/datasets/andrewmvd/face-mask-detection]
 
+# Model Training Preparation
+
+* Download [https://www.kaggle.com/datasets/andrewmvd/face-mask-detection/download?datasetVersionNumber=1]
+* Copy the download zip file to datasets folder
+* Run Project.ipynb
+* Next open a new terminal with directory as yolov5
+* train modelhttps://www.kaggle.com/datasets/andrewmvd/face-mask-detection/download?datasetVersionNumber=1
+
 # Model Parameters
 
 * Epochs : 100
